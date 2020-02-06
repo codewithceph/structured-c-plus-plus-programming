@@ -14,6 +14,13 @@
 										   * * * * * *		   1 1 1 1 1 1		 aaaaaaaaaaa
 											  
 											  					fig. 1
+					NOTE: Fig. 1 is shown correctly only in a c++ text editor such as Dev c++,Bracket, VS code ....
+						preview:
+									*
+								       * *
+								      *   *		(only on github)
+								     *     *
+								    * * * * *
 */
 #include <iostream>
 
